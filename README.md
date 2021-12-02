@@ -1,7 +1,7 @@
 # Digidocs on GitHub
 
 ## Starting a new .NET project
-- [GIT](sections/GIT.md)
+- [Git](sections/GIT.md)
 - [DotNet Tools](sections/DOTNET_TOOLS.md)
 - [VS Code Extensions](sections/GITHUB_EXTENSIONS.md)
 - [VS Code Settings](sections/VSCODE_SETTINGS.md)
