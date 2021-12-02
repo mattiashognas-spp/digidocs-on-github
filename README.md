@@ -1,6 +1,9 @@
-# Digidocs on GitHub
+# DigiDocs on GitHub
 
-## Starting a new .NET project
+:wave: Welcome to DigiDocs.
+The following links will hopefully give you the essential information on how we currently develop things within our team.
+
+## Categories
 - [Git](sections/GIT.md)
 - [DotNet Tools](sections/DOTNET_TOOLS.md)
 - [VS Code Extensions](sections/GITHUB_EXTENSIONS.md)
