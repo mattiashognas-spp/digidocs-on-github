@@ -10,3 +10,6 @@ On push to master/main: Run build and package as nuget and send to our gtihub nu
 ## Continous delivery
 
 We use Octopus Deploy to deploy our packages to each enviroment.
+
+## Read more
+[Official documentation](https://docs.github.com/en/actions)

@@ -21,4 +21,4 @@ git checkout -b a_new_branch_name origin/master
 
 ## Read more
 
-[Github documentation](https://git-scm.com/docs)
+[Official documentation](https://git-scm.com/docs)
