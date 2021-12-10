@@ -19,7 +19,7 @@ To maintain code quality we require each pull requests to be verified by one or 
 
 ## Enviroments
 
-We deploy frequently to FT.<br/>
-When all devs agree, we deploy to ST.<br/>
-When all stakeholders agree we deploy to AT.<br/>
-And lastly we let INFRA Team deploy to PR.<br/>
+FT - This is where we verify a package can be deployed. We dpeloy here continiously without hesitation.<br/>
+ST - This is where we verify a configuration or a process is working as techncally expected. We deploy here when all developers agree upon it.<br/>
+AT - This is where we veriy logic and features are all working as spcificed in specs. We deploy here when all stakeholders agree upon it.<br/>
+PR - This is our production enviroments. We request a deploy from INFRA trough offical channels by writing a change request.<br/>
