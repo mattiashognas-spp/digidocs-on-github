@@ -2,9 +2,11 @@
 
 ## Continous integration
 
-We use github antions for our CI workflow.
-Common usage is:<br/>
+We use Github Actions for our CI workflow.
+Our common usage is:<br/>
+
 On pull request: Run Sonarcloud and unit tests.<br/>
+
 On push to master/main: Run build and package as nuget and send to our gtihub nuget repository for internal usage OR send to Octopus Deploy for deploy.<br/>
 
 ## Continous delivery
