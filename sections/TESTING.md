@@ -9,7 +9,7 @@ We prefer to use utilize TDD over post-implementation tests.
 Packages of tools and frameworks and tools we commonly use are:
 - XUnit as test framework
 - FluentAssertions to create readability
-- Moq for mocking
+- NSubstitute for mocking
 - coverlet for test coverage
 - Specflow for autogenerating tests from specs
 
